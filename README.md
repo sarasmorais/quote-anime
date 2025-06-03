@@ -86,5 +86,5 @@ Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](L
 
 ## 🙋‍♀️ Autora
 
-Desenvolvido por [Sara Morais](https://github.com/sarasmorais).
-Orientado por Luan Oliveira
+- Desenvolvido por [Sara Morais](https://github.com/sarasmorais).
+- Orientado por Luan Oliveira
